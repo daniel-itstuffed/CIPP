@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippnlhaq'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0AECB2B8FAD448A88F41758A0A86C2F }}
+          publish-profile: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_BLACK_WAVE_03EC31210 }}
